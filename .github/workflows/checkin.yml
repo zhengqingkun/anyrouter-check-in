@@ -7,7 +7,7 @@ on:
 jobs:
   checkin:
     runs-on: windows-2025
-    environment: production
+    environment: pro
     env:
       PYTHONIOENCODING: utf-8
     steps:
